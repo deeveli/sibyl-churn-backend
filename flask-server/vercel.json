@@ -1,0 +1,8 @@
+{
+    "builds":[
+        {
+            "src":"flask-server/app.py",
+            "use:"@vercel/python"
+        }
+    ],
+}
